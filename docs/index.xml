@@ -20,8 +20,20 @@
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://bunny.editool.cn/docs/download/</guid>
-        <description>客户端下载  下载剪刀兔Windows客户端
-  剪刀兔Mac安装方法</description>
+        <description>windows客户端下载  剪刀兔Windows客户端
+  Mac客户端下载 剪刀兔Mac安装方法</description>
+      </item>
+      
+      <item>
+        <title>安装流程</title>
+        <link>https://bunny.editool.cn/docs/install/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://bunny.editool.cn/docs/install/</guid>
+        <description>安装流程  进入剪刀兔官网 www.editool.cn ，点击左上导航栏的【下载】，进入下载页面。   Windows系统用户点击【下载剪刀兔Windows客户端】，下载剪刀兔客户端。   下载完成后，直接【打开】，或者【在文件夹中显示】后，双击应用程序。  
+
+根据步骤提示进行剪刀兔安装。  
+安装完成。启动客户端后，右下角任务栏会出现剪刀兔图标。</description>
       </item>
       
       <item>
@@ -33,20 +45,56 @@
         <description>购买会员激活码 剪刀兔有月度会员和年度会员两种选择，并提供试用会员（有效期48小时）。
 扫描对应二维码，可直接购买相应会员激活码。
 购买成功后，在登录剪刀兔时，输入激活码即可正常使用会员功能。
- 限时试用体验：0.01元  仅限购买1次，有效期48小时    月度会员：29元/月  原价39元/月    年度会员：199元/年  原价399元/年    </description>
+ 0元试用  限时试用体验：0.01元  仅限购买1次，有效期48小时    月度会员  月度会员：29元/月  原价39元/月    年度会员  年度会员：199元/年  原价399元/年    </description>
       </item>
       
       <item>
-        <title>安装启动教程</title>
-        <link>https://bunny.editool.cn/docs/tutorial/</link>
+        <title>登录与激活</title>
+        <link>https://bunny.editool.cn/docs/activation/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://bunny.editool.cn/docs/tutorial/</guid>
-        <description></description>
+        <guid>https://bunny.editool.cn/docs/activation/</guid>
+        <description>会员登录及激活  双击剪刀兔桌面快捷方式/右下角任务栏剪刀兔图标，或者右键单击右下角任务栏剪刀兔图标，选择【显示】，打开剪刀兔登录界面。  
+2. 登录界面如下，打开微信“扫一扫”，扫描界面二维码，登录剪刀兔。
+
+3. 首次登录需要输入“激活码”，若没有激活码，点击【还没有激活码？点击此处获取】，获取激活码，进入激活码购买页面。
+
+4. 购买成功后，填写激活码，点击【提交】，完成激活。
+
+5. 激活成功后，将显示如下页面，可看到会员到期时间。点击开始使用进入剪刀兔编辑器。
+
+6. 剪刀兔编辑页面如下图所示，点击【＋】即可上传视频及字幕文件，开始使用。
+
+提示：如有问题，请关注剪刀兔服务号，发送问题进行咨询，会有专属客服为您解答。</description>
       </item>
       
       <item>
-        <title>详细使用教程</title>
+        <title>快速上手</title>
+        <link>https://bunny.editool.cn/docs/simple/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://bunny.editool.cn/docs/simple/</guid>
+        <description>下载安装及登录完成后，用户可进入剪刀兔编辑面板desk.editool.cn ，开始操作。
+一、导入视频与处理 点击【添加】，将想要处理的视频导入到列表中，选择视频处理预设后，即开始处理。
+处理完成后，我们点击【编辑】按钮，即进入到编辑页面。
+ 二、图文编辑 现在大家可以看到，视频已经自动被分成了许多个“段落”。
+如果此时点击【预览】，可以看到最终展现效果，已经是变成了图文模式。
+ 接下来我们将对自动转出来的图文进行细节调整
+ 1、合并/拆分段落 如果觉得软件自动分割的不好，想把它们合并起来，可以点击【向上合并】按钮，就会与前一个段落合并；如果想把它们拆开，将鼠标移动到相应位置，点击【拆分】按钮即可。
+ 2、删除/恢复段落 如果觉得某段不想出现在图文中，可以点击【删除】；需要时也可以恢复。
+注意，如果文本框是完全为空的状态，删除文本框时是永久删除。
+ 3、挑选主图 鼠标放在备选图位置可以预览备选图效果，鼠标左键选中后将固定显示，且只有选中图片会显示在预览和发布页面。
+ 4、转GIF 当要把某个段落转换成GIF时，点击【转换成GIF】按钮，软件就会自动把这个视频段落转换成GIF。
+
+ 5、监视器回放 如果想不起来这个段落的内容，点击左边的【时间点】，监视器就会从该点开始播放视频，方便了解情况。
+ 6、保存/预览 点击左侧菜单栏的【保存】按钮，就可以保存当前编辑的结果。
+点击左侧菜单栏的【预览】按钮，就可以查看该文的预览效果。
+ 7、发布 编辑完成后，点击左侧菜单栏【发布】按钮，在发布页面选中需要的内容，复制，粘贴到其他想要上传图文的平台编辑页面，进行发布。
+ 以上就是本软件的一些基础功能介绍。</description>
+      </item>
+      
+      <item>
+        <title>详细教程</title>
         <link>https://bunny.editool.cn/docs/detail/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
@@ -60,10 +108,37 @@
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://bunny.editool.cn/docs/about/</guid>
-        <description>素图科技 “剪刀兔”由上海素图科技有限公司团队开发上线。
-上海素图科技有限公司位于同济大学科技园，属于上海市大学生科技创业基金会同济分基金支持企业。创始人团队有来自同济大学、上海交大、南开大学等校的硕博士生，依托高校科研实力，主要进行区块链、人工智能等领域的底层平台和应用案例开发。
+        <description>素图科技 “剪刀兔-视频自动转GIF图文编辑器”由上海素图科技有限公司开发。
+素图科技位于同济大学科技园，属于上海市大学生科技创业基金会同济分基金支持企业。创始人团队有来自同济大学、上海交大、南开大学等校的硕博士生，依托高校科研实力，主要进行区块链、人工智能等领域的底层平台和应用案例开发。
 地址：上海市杨浦区中山北二路1121号同济科技大厦二楼。
-了解更多请关注素图科技官方网站：https://www.sutu.tech</description>
+了解更多请访问素图科技官网：https://www.sutu.tech</description>
+      </item>
+      
+      <item>
+        <title></title>
+        <link>https://bunny.editool.cn/docs/activation/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://bunny.editool.cn/docs/activation/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title></title>
+        <link>https://bunny.editool.cn/docs/install/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://bunny.editool.cn/docs/install/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title></title>
+        <link>https://bunny.editool.cn/docs/simple/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://bunny.editool.cn/docs/simple/</guid>
+        <description></description>
       </item>
       
     

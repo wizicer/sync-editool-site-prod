@@ -18,27 +18,17 @@
   </url>
   
   <url>
-    <loc>https://bunny.editool.cn/docs/detail/sec1/sec1_1/</loc>
-    <lastmod>2020-01-30T00:38:25+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bunny.editool.cn/docs/tutorial/install/</loc>
-    <lastmod>2020-01-30T00:38:25+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://bunny.editool.cn/docs/detail/sec2/sec2_1/</loc>
     <lastmod>2020-01-30T00:38:25+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bunny.editool.cn/docs/detail/sec2/</loc>
+    <loc>https://bunny.editool.cn/docs/install/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bunny.editool.cn/docs/vip/</loc>
+    <loc>https://bunny.editool.cn/docs/detail/sec2/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
   </url>
   
@@ -48,17 +38,7 @@
   </url>
   
   <url>
-    <loc>https://bunny.editool.cn/docs/tutorial/boot/</loc>
-    <lastmod>2020-01-30T00:38:25+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://bunny.editool.cn/docs/detail/sec2/sec2_2/</loc>
-    <lastmod>2020-01-30T00:38:25+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bunny.editool.cn/docs/detail/sec1/sec1_2/</loc>
     <lastmod>2020-01-30T00:38:25+09:00</lastmod>
   </url>
   
@@ -68,7 +48,7 @@
   </url>
   
   <url>
-    <loc>https://bunny.editool.cn/docs/tutorial/</loc>
+    <loc>https://bunny.editool.cn/docs/vip/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
   </url>
   
@@ -83,7 +63,7 @@
   </url>
   
   <url>
-    <loc>https://bunny.editool.cn/docs/detail/</loc>
+    <loc>https://bunny.editool.cn/docs/activation/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
   </url>
   
@@ -98,7 +78,7 @@
   </url>
   
   <url>
-    <loc>https://bunny.editool.cn/docs/about/</loc>
+    <loc>https://bunny.editool.cn/docs/simple/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
   </url>
   
@@ -113,6 +93,11 @@
   </url>
   
   <url>
+    <loc>https://bunny.editool.cn/docs/detail/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://bunny.editool.cn/docs/detail/sec3/sec3_6/</loc>
     <lastmod>2020-01-30T00:38:25+09:00</lastmod>
   </url>
@@ -120,6 +105,11 @@
   <url>
     <loc>https://bunny.editool.cn/docs/detail/sec2/sec2_6/</loc>
     <lastmod>2020-01-30T00:38:25+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bunny.editool.cn/docs/about/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
   </url>
   
   <url>
@@ -205,6 +195,18 @@
   <url>
     <loc>https://bunny.editool.cn/docs/</loc>
     <lastmod>2020-01-11T14:09:21+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bunny.editool.cn/docs/activation/</loc>
+  </url>
+  
+  <url>
+    <loc>https://bunny.editool.cn/docs/install/</loc>
+  </url>
+  
+  <url>
+    <loc>https://bunny.editool.cn/docs/simple/</loc>
   </url>
   
 </urlset>
