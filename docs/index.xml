@@ -15,13 +15,14 @@
     
       
       <item>
-        <title>下载</title>
+        <title>下载客户端</title>
         <link>https://www.editool.cn/docs/download/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://www.editool.cn/docs/download/</guid>
-        <description>windows客户端下载  剪刀兔Windows客户端
-  Mac客户端下载 剪刀兔Mac安装方法</description>
+        <description>Win10客户端下载  Win10系统客户端下载
+  Mac客户端下载 Mac系统客户端安装方法
+   版本更新记录 2020年7月31日：版本0.1.1370.21320</description>
       </item>
       
       <item>
@@ -30,10 +31,14 @@
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://www.editool.cn/docs/install/</guid>
-        <description>安装流程  进入剪刀兔官网 www.editool.cn ，点击左上导航栏的【下载】，进入下载页面。   Windows系统用户点击【下载剪刀兔Windows客户端】，下载剪刀兔客户端。   下载完成后，直接【打开】，或者【在文件夹中显示】后，双击应用程序。  
+        <description>Win10用户安装流程  进入剪刀兔官网 www.editool.cn ，点击左上导航栏的【下载】，进入下载页面。   Windows系统用户点击【下载剪刀兔Windows客户端】，下载剪刀兔客户端。   下载完成后，直接【打开】，或者【在文件夹中显示】后，双击应用程序。
+  
+若系统出现如下提示，请点击【更多信息】后，点击【仍要运行】。
 
 根据步骤提示进行剪刀兔安装。  
-安装完成。启动客户端后，右下角任务栏会出现剪刀兔图标。</description>
+安装完成。启动客户端后，右下角任务栏会出现剪刀兔图标。
+  
+Mac用户安装流程 Mac用户剪刀兔客户端安装方法</description>
       </item>
       
       <item>
@@ -54,7 +59,7 @@
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://www.editool.cn/docs/activation/</guid>
-        <description>会员登录及激活  双击剪刀兔桌面快捷方式/右下角任务栏剪刀兔图标，或者右键单击右下角任务栏剪刀兔图标，选择【显示】，打开剪刀兔登录界面。  
+        <description>会员登录及激活  剪刀兔客户端下载完成后，双击剪刀兔桌面快捷方式打开剪刀兔登录界面。  
 2. 登录界面如下，打开微信“扫一扫”，扫描界面二维码，登录剪刀兔。
 
 3. 首次登录需要输入“激活码”，若没有激活码，点击【还没有激活码？点击此处获取】，获取激活码，进入激活码购买页面。
@@ -65,6 +70,10 @@
 
 6. 剪刀兔编辑页面如下图所示，点击【＋】即可上传视频及字幕文件，开始使用。
 
+若客户端已经处于启动状态，双击右下角任务栏剪刀兔图标也可以打开登录界面。 鼠标右键单击右下角任务栏剪刀兔图标打开客户端菜单栏：
+点击【显示】打开登录界面；
+点击【进入编辑器】进入剪刀兔编辑器；
+点击【退出程序】退出剪刀兔客户端。  
 提示：如有问题，请关注剪刀兔服务号，发送问题进行咨询，会有专属客服为您解答。</description>
       </item>
       
@@ -103,7 +112,7 @@
       </item>
       
       <item>
-        <title>关于</title>
+        <title>关于我们</title>
         <link>https://www.editool.cn/docs/about/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
