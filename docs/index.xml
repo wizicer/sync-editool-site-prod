@@ -15,6 +15,17 @@
     
       
       <item>
+        <title>产品简介</title>
+        <link>https://www.editool.cn/docs/production/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://www.editool.cn/docs/production/</guid>
+        <description>剪刀兔是什么？ 剪刀兔是一款可以实现视频自动转换成图/文/GIF的全媒体编辑器。
+通过自主研发的人工智能视频流图像识别算法，对连续视频流进行场景识别，从而实现媒体形式的自动转换。
+主要功能概况  视频列表可上传视频数量为100条； 可批量上传视频及字幕； 可批量处理视频及字幕； 可自由使用“默认、PPT、图片轮转、定点拍摄、手持拍摄”五种视频处理预设进行转换； 可使用拆分/合并段落、删除/恢复段落、挑选主图、GIF转换、编辑文字、快捷回放等所有编辑功能； 可在发布页复制编辑好的内容，粘贴至其他平台，进行发布； 转出图片不压缩画质，可最大尺寸保存； 一键转换为GIF，无时长、帧数限制，不存在删减帧现象，画面流畅。  </description>
+      </item>
+      
+      <item>
         <title>下载客户端</title>
         <link>https://www.editool.cn/docs/download/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
@@ -31,7 +42,7 @@
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://www.editool.cn/docs/install/</guid>
-        <description>Win10用户安装流程  进入剪刀兔官网 www.editool.cn ，点击左上导航栏的【下载】，进入下载页面。   Windows系统用户点击【下载剪刀兔Windows客户端】，下载剪刀兔客户端。   下载完成后，直接【打开】，或者【在文件夹中显示】后，双击应用程序。
+        <description>Win10用户安装流程  进入剪刀兔官网 www.editool.cn ，点击左上导航栏的【下载】，进入下载页面。   Win10系统用户点击【Win10系统客户端下载】，下载剪刀兔客户端。   下载完成后，直接【打开】，或者【在文件夹中显示】后，双击应用程序。
   
 若系统出现如下提示，请点击【更多信息】后，点击【仍要运行】。
 
@@ -85,7 +96,7 @@ Mac用户安装流程 Mac用户剪刀兔客户端安装方法</description>
         <guid>https://www.editool.cn/docs/simple/</guid>
         <description>下载安装及登录完成后，用户可进入剪刀兔编辑面板desk.editool.cn ，开始操作。
 一、导入视频与处理 点击【添加】，将想要处理的视频导入到列表中，选择视频处理预设后，即开始处理。
-处理完成后，我们点击【编辑】按钮，即进入到编辑页面。
+ 处理完成后，点击【开始编辑】按钮，即进入到编辑页面。
  二、图文编辑 现在大家可以看到，视频已经自动被分成了许多个“段落”。
 如果此时点击【预览】，可以看到最终展现效果，已经是变成了图文模式。
  接下来我们将对自动转出来的图文进行细节调整
@@ -93,8 +104,7 @@ Mac用户安装流程 Mac用户剪刀兔客户端安装方法</description>
  2、删除/恢复段落 如果觉得某段不想出现在图文中，可以点击【删除】；需要时也可以恢复。
 注意，如果文本框是完全为空的状态，删除文本框时是永久删除。
  3、挑选主图 鼠标放在备选图位置可以预览备选图效果，鼠标左键选中后将固定显示，且只有选中图片会显示在预览和发布页面。
- 4、转GIF 当要把某个段落转换成GIF时，点击【转换成GIF】按钮，软件就会自动把这个视频段落转换成GIF。
-
+ 4、转GIF 当要把某个段落转换成GIF时，点击【开启GIF】按钮，软件就会自动把这个视频段落转换成GIF。
  5、监视器回放 如果想不起来这个段落的内容，点击左边的【时间点】，监视器就会从该点开始播放视频，方便了解情况。
  6、保存/预览 点击左侧菜单栏的【保存】按钮，就可以保存当前编辑的结果。
 点击左侧菜单栏的【预览】按钮，就可以查看该文的预览效果。
@@ -138,6 +148,15 @@ Mac用户安装流程 Mac用户剪刀兔客户端安装方法</description>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
         <guid>https://www.editool.cn/docs/install/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title></title>
+        <link>https://www.editool.cn/docs/production/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://www.editool.cn/docs/production/</guid>
         <description></description>
       </item>
       
