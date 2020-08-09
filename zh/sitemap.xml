@@ -3,37 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.editool.cn/docs/production/</loc>
-    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.editool.cn/docs/detail/sec1/</loc>
-    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.editool.cn/docs/download/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.editool.cn/docs/detail/sec2/</loc>
+    <loc>https://www.editool.cn/docs/tutorial/sec1/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.editool.cn/docs/detail/sec3/</loc>
-    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.editool.cn/docs/install/</loc>
-    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.editool.cn/docs/detail/sec4/</loc>
+    <loc>https://www.editool.cn/docs/tutorial/sec2/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
   </url>
   
@@ -43,17 +23,22 @@
   </url>
   
   <url>
-    <loc>https://www.editool.cn/docs/activation/</loc>
+    <loc>https://www.editool.cn/docs/tutorial/sec3/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.editool.cn/docs/simple/</loc>
+    <loc>https://www.editool.cn/docs/guide/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.editool.cn/docs/detail/</loc>
+    <loc>https://www.editool.cn/docs/tutorial/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.editool.cn/docs/faq/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
   </url>
   
@@ -83,23 +68,7 @@
   </url>
   
   <url>
-    <loc>https://www.editool.cn/docs/activation/</loc>
-  </url>
-  
-  <url>
-    <loc>https://www.editool.cn/docs/detail/sec4/</loc>
-  </url>
-  
-  <url>
-    <loc>https://www.editool.cn/docs/install/</loc>
-  </url>
-  
-  <url>
-    <loc>https://www.editool.cn/docs/production/</loc>
-  </url>
-  
-  <url>
-    <loc>https://www.editool.cn/docs/simple/</loc>
+    <loc>https://www.editool.cn/docs/tutorial/</loc>
   </url>
   
 </urlset>

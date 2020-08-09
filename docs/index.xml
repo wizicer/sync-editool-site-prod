@@ -15,41 +15,19 @@
     
       
       <item>
-        <title>产品简介</title>
-        <link>https://www.editool.cn/docs/production/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>https://www.editool.cn/docs/production/</guid>
-        <description>剪刀兔是什么？ 剪刀兔是一款可以实现视频自动转换成图/文/GIF的全媒体编辑器。
-通过自主研发的人工智能视频流图像识别算法，对连续视频流进行场景识别，从而实现媒体形式的自动转换。
-主要功能概况  视频列表可上传视频数量为100条； 可批量上传视频及字幕； 可批量处理视频及字幕； 可自由使用“默认、PPT、图片轮转、定点拍摄、手持拍摄”五种视频处理预设进行转换； 可使用拆分/合并段落、删除/恢复段落、挑选主图、GIF转换、编辑文字、快捷回放等所有编辑功能； 可在发布页复制编辑好的内容，粘贴至其他平台，进行发布； 转出图片不压缩画质，可最大尺寸保存； 一键转换为GIF，无时长、帧数限制，不存在删减帧现象，画面流畅。  </description>
-      </item>
-      
-      <item>
-        <title>下载客户端</title>
+        <title>下载安装</title>
         <link>https://www.editool.cn/docs/download/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
         <guid>https://www.editool.cn/docs/download/</guid>
         <description>Win10客户端下载  Win10系统客户端下载
   Mac客户端下载 Mac系统客户端安装方法
-   版本更新记录 2020年7月31日：版本0.1.1370.21320</description>
-      </item>
-      
-      <item>
-        <title>安装流程</title>
-        <link>https://www.editool.cn/docs/install/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>https://www.editool.cn/docs/install/</guid>
-        <description>Win10用户安装流程  进入剪刀兔官网 www.editool.cn ，点击左上导航栏的【下载】，进入下载页面。   Win10系统用户点击【Win10系统客户端下载】，下载剪刀兔客户端。   下载完成后，直接【打开】，或者【在文件夹中显示】后，双击应用程序。
-  
-若系统出现如下提示，请点击【更多信息】后，点击【仍要运行】。
 
-根据步骤提示进行剪刀兔安装。  
-安装完成。启动客户端后，右下角任务栏会出现剪刀兔图标。
-  
-Mac用户安装流程 Mac用户剪刀兔客户端安装方法</description>
+版本更新记录 2020年7月31日：版本0.1.1370.21320
+安装流程   下载并运行剪刀兔安装程序。若系统出现如下提示，请点击【更多信息】后，点击【仍要运行】。
+  根据步骤提示进行剪刀兔安装。
+  安装完成。启动客户端后，右下角任务栏会出现剪刀兔图标。
+  </description>
       </item>
       
       <item>
@@ -61,39 +39,23 @@ Mac用户安装流程 Mac用户剪刀兔客户端安装方法</description>
         <description>购买会员激活码 剪刀兔有月度会员和年度会员两种选择，并提供试用会员（有效期48小时）。
 扫描对应二维码，可直接购买相应会员激活码。
 购买成功后，在登录剪刀兔时，输入激活码即可正常使用会员功能。
- 0元试用  限时试用体验：0.01元  仅限购买1次，有效期48小时    月度会员  月度会员：29元/月  原价39元/月    年度会员  年度会员：199元/年  原价399元/年    </description>
-      </item>
-      
-      <item>
-        <title>登录与激活</title>
-        <link>https://www.editool.cn/docs/activation/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>https://www.editool.cn/docs/activation/</guid>
-        <description>会员登录及激活  剪刀兔客户端下载完成后，双击剪刀兔桌面快捷方式打开剪刀兔登录界面。  
-2. 登录界面如下，打开微信“扫一扫”，扫描界面二维码，登录剪刀兔。
-
-3. 首次登录需要输入“激活码”，若没有激活码，点击【还没有激活码？点击此处获取】，获取激活码，进入激活码购买页面。
-
-4. 购买成功后，填写激活码，点击【提交】，完成激活。
-
-5. 激活成功后，将显示如下页面，可看到会员到期时间。点击开始使用进入剪刀兔编辑器。
-
-6. 剪刀兔编辑页面如下图所示，点击【＋】即可上传视频及字幕文件，开始使用。
-
-若客户端已经处于启动状态，双击右下角任务栏剪刀兔图标也可以打开登录界面。 鼠标右键单击右下角任务栏剪刀兔图标打开客户端菜单栏：
-点击【显示】打开登录界面；
-点击【进入编辑器】进入剪刀兔编辑器；
-点击【退出程序】退出剪刀兔客户端。  
-提示：如有问题，请关注剪刀兔服务号，发送问题进行咨询，会有专属客服为您解答。</description>
+ 0元试用   限时试用体验：0.01元  仅限购买1次，有效期48小时    月度会员   月度会员：29元/月  原价39元/月    年度会员   年度会员：199元/年  原价399元/年    会员登录及激活流程   剪刀兔客户端下载完成后，双击剪刀兔桌面快捷方式打开剪刀兔登录界面。
+  登录界面如下，打开微信“扫一扫”，扫描界面二维码，登录剪刀兔。
+  首次登录需要输入“激活码”，若没有激活码，点击【还没有激活码？点击此处获取】，获取激活码，进入激活码购买页面。
+  购买成功后，填写激活码，点击【提交】，完成激活。
+  激活成功后，将显示如下页面，可看到会员到期时间。点击开始使用进入剪刀兔编辑器。
+  剪刀兔编辑页面如下图所示，点击【＋】即可上传视频及字幕文件，开始使用。
+  若客户端已经处于启动状态，双击右下角任务栏剪刀兔图标也可以打开登录界面。 鼠标右键单击右下角任务栏剪刀兔图标打开客户端菜单栏：
+ 点击【显示】打开登录界面； 点击【进入编辑器】进入剪刀兔编辑器； 点击【退出程序】退出剪刀兔客户端。  
+  如有疑问，请关注剪刀兔服务号，发送问题进行咨询，会有专属客服为您解答。</description>
       </item>
       
       <item>
         <title>快速上手</title>
-        <link>https://www.editool.cn/docs/simple/</link>
+        <link>https://www.editool.cn/docs/guide/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://www.editool.cn/docs/simple/</guid>
+        <guid>https://www.editool.cn/docs/guide/</guid>
         <description>下载安装及登录完成后，用户可进入剪刀兔编辑面板desk.editool.cn ，开始操作。
 一、导入视频与处理 点击【添加】，将想要处理的视频导入到列表中，选择视频处理预设后，即开始处理。
  处理完成后，点击【开始编辑】按钮，即进入到编辑页面。
@@ -114,11 +76,35 @@ Mac用户安装流程 Mac用户剪刀兔客户端安装方法</description>
       
       <item>
         <title>详细教程</title>
-        <link>https://www.editool.cn/docs/detail/</link>
+        <link>https://www.editool.cn/docs/tutorial/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://www.editool.cn/docs/detail/</guid>
+        <guid>https://www.editool.cn/docs/tutorial/</guid>
         <description></description>
+      </item>
+      
+      <item>
+        <title>常见问答</title>
+        <link>https://www.editool.cn/docs/faq/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://www.editool.cn/docs/faq/</guid>
+        <description>常见问答 安装启动问题   下载了剪刀兔客户端，却但无法在电脑上安装？
+ 目前剪刀兔只支持在win10 64位系统上使用，不支持win7/win8或mac系统，也不支持win10 32位系统（市面上绝大部分win10都是64位）。
+    下载了剪刀兔的客户端，安装成功，启动程序时却报错（提示“无法连接”等）。
+  首先请检查您电脑的操作系统，是否是win10 64位系统。否则将无法正常使用并报错。
+  如果确认操作系统符合要求，请检查电脑是否连上网络，未连网时将提示该错误。
+    在win10系统上安装成功，也成功启动了程序，但点击“开始使用”或“进入编辑器”时网页却一片空白。
+ 剪刀兔支持的浏览器为chrome或chrome内核的浏览器（如360浏览器、最新的edge浏览器等）。不支持IE浏览器。 如果点击“开始使用”或“进入编辑器”时，网页一片空白，请检查是否使用了不支持的浏览器。 建议使用chrome内核浏览器，直接输入编辑面板地址：desk.editool.cn 即可正常使用。    视频处理问题   上传视频时提示【上传失败】是什么原因？
+上传失败的可能原因
+ 上传文件过大，导致电脑磁盘空间不足。（因为“上传”实质是将视频复制至本地专用目录进行处理，并非上传至服务器，所以会占用本地磁盘空间） 上传视频的数量超出列表上限（目前上限为100条） 。
+    视频/字幕上传成功，但无法进行处理。
+无法处理的可能原因：
+ 尚未会员登录。（登录后即可正常使用。） 已登录，但会员已过期 。（重新购买激活码进行激活，即可正常使用。） 网络连接断开。（联网后即可正常使用。） 电脑磁盘空间不足。（请清理磁盘空间后再使用。）
+    图文编辑问题   导入了视频，但转换出来的结果只有图片，没有文字。
+  目前剪刀兔支持在同时导入视频及字幕的情况下，可以转换出文字并自动对应至视频段落（视频段落以图片形式呈现）。
+  如果视频处理时，只导入了视频，未导入字幕文件，将无法转换出文字，只会生成视频段落。
+  未来我们将陆续更新更多高级功能，包括语音转文字功能，敬请期待。</description>
       </item>
       
       <item>
@@ -135,37 +121,10 @@ Mac用户安装流程 Mac用户剪刀兔客户端安装方法</description>
       
       <item>
         <title></title>
-        <link>https://www.editool.cn/docs/activation/</link>
+        <link>https://www.editool.cn/docs/tutorial/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://www.editool.cn/docs/activation/</guid>
-        <description></description>
-      </item>
-      
-      <item>
-        <title></title>
-        <link>https://www.editool.cn/docs/install/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>https://www.editool.cn/docs/install/</guid>
-        <description></description>
-      </item>
-      
-      <item>
-        <title></title>
-        <link>https://www.editool.cn/docs/production/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>https://www.editool.cn/docs/production/</guid>
-        <description></description>
-      </item>
-      
-      <item>
-        <title></title>
-        <link>https://www.editool.cn/docs/simple/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>https://www.editool.cn/docs/simple/</guid>
+        <guid>https://www.editool.cn/docs/tutorial/</guid>
         <description></description>
       </item>
       
